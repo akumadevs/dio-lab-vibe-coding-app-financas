@@ -1,4 +1,4 @@
-<img width="1368" height="690" alt="image" src="https://github.com/user-attachments/assets/e2511fa0-4e49-491f-a54c-b984d5cf6970" /># 💸 Teste com o Assist My Cash – App de Finanças Pessoais com IA  
+# 💸 Teste com o Assist My Cash – App de Finanças Pessoais com IA  
 
 🔗 **Protótipo ao vivo:** [https://assist-my-cash.lovable.app/](https://assist-my-cash.lovable.app/)  
 
