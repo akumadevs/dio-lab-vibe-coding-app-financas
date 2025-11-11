@@ -1,7 +1,4 @@
-# 💸 Teste com o Assist My Cash – App de Finanças Pessoais com IA  
-
-![Tela do Chat com IA](imagens/assist-chat.png)  
-![Tela de Login](imagens/assist-login.png)  
+<img width="1368" height="690" alt="image" src="https://github.com/user-attachments/assets/e2511fa0-4e49-491f-a54c-b984d5cf6970" /># 💸 Teste com o Assist My Cash – App de Finanças Pessoais com IA  
 
 🔗 **Protótipo ao vivo:** [https://assist-my-cash.lovable.app/](https://assist-my-cash.lovable.app/)  
 
@@ -29,11 +26,8 @@
 
 ## 📸 **Prints das Interações com a IA**  
 
-### 💬 Chat de economia com IA
-![Chat com IA](imagens/assist-chat.png)
-
-### 🔐 Tela de Cadastro
-![Tela de Login](imagens/assist-login.png)
+<img width="1368" height="690" alt="image" src="https://github.com/user-attachments/assets/a4bc446c-d699-41a8-9f58-5e1e81e4f17f" />
+<img width="1343" height="630" alt="image" src="https://github.com/user-attachments/assets/625a639c-c273-47a9-bb92-40afa44297b3" />
 
 ---
 
